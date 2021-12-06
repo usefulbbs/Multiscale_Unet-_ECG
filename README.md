@@ -1,5 +1,5 @@
 # Multiscale_Unet-_ECG
-v1
+
 %% This is first version of the proposed Multiscale residule U++. The path in the code will be updated later.  %%
 
 Congestive heart failure (CHF), a progressive and complex syndrome caused by ventricular dysfunction, is difficult to detect in the early stage. Heart rate variability was proposed as a prognostic indicator for CHF. Inspired by the success of 2D UNet++ in medical image segmentation, in this paper, we introduce a multiscale residual encoder-decoder model for CHF detection based on short-term RR intervals. The main contributions are summarized as follows:
